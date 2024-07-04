@@ -54,3 +54,8 @@ int main() {
 
     return 0;
 }
+void mah() {
+
+
+    cout << "mahdi" << endl;
+}
